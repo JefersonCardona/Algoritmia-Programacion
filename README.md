@@ -1,8 +1,11 @@
 # Algoritmia-Programacion
 
 
-![JefCar]()
+![JefCar](https://github.com/JefersonCardona/Algoritmia-Programacion/blob/8de39599356c17fa126565cf329bd4a390687f0b/Archivos/JefCar.jpg)
 
+# Integrantes
+- Jeferson Cardona
+  
 # Proyecto de Asignación de Estudiantes a Cursos
 
 Este proyecto tiene como objetivo asignar estudiantes a distintos cursos según su semestre y nivel académico, generando archivos CSV y Excel con las asignaciones realizadas. Además, el proceso de asignación se registra en un archivo de log.
