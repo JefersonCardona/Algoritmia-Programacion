@@ -49,7 +49,3 @@ Al final del script, se escriben todos los mensajes de log en un archivo de log.
 ## Uso
 
 Para ejecutar el script en Google Colab, copia y pega el código en una celda de Colab y ejecútalo. Asegúrate de que las rutas de los archivos CSV sean correctas o modifica las rutas según sea necesario.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
