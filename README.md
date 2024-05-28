@@ -1,4 +1,8 @@
 # Algoritmia-Programacion
+
+
+![JefCar]()
+
 # Proyecto de Asignación de Estudiantes a Cursos
 
 Este proyecto tiene como objetivo asignar estudiantes a distintos cursos según su semestre y nivel académico, generando archivos CSV y Excel con las asignaciones realizadas. Además, el proceso de asignación se registra en un archivo de log.
